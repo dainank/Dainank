@@ -7,7 +7,7 @@
 I am Ben (aka @Dainank), from :luxembourg:/:uk: but grew up and am currently studying software engineering in The Netherlands.
 
 ## ⚡ Technologies
-- -I’m currently learning:
+- I’m currently learning:
   - **Spring** 🌱
   - **Vue** 🌄
   - **React** ⛲
