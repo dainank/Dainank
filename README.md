@@ -11,6 +11,7 @@ I am Ben (aka @Dainank), from :luxembourg:/:uk: but grew up and am currently stu
   - **Spring** 🌱
   - **Vue** 🌄
   - **React** ⛲
+  - **.NET 5.0** 🍇
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=dainank&hide=["issues"]&show_icons=true)
 
