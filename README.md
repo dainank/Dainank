@@ -13,4 +13,4 @@ I am Ben (aka @Dainank), from :luxembourg:/:uk: but grew up and am currently stu
   - **React** ⛲
   - **.NET 5.0** 🍇 -->
 
-![visitors](https://github-readme-stats.vercel.app/api?username=Dainank&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&count_private=true&show_icons=true)
+![visitors](https://komarev.com/ghpvc/?username=dainank&label=Visitor count&color=ff00ff&style=flat)
