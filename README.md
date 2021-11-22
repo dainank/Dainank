@@ -12,3 +12,5 @@ I am Ben (aka @Dainank), from :luxembourg:/:uk: but grew up and am currently stu
   - **Vue** 🌄
   - **React** ⛲
   - **.NET 5.0** 🍇 -->
+  
+<img src="https://komarev.com/ghpvc/?username=dainank&label=Visitor count&color=ff00ff&style=flat" alt="dainank" />
