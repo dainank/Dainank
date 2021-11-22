@@ -5,12 +5,3 @@
 [![Twitter Badge](https://img.shields.io/badge/-@_Dainank-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iDainank)](https://twitter.com/iDainank)
 
 I am Ben (aka @Dainank), from :luxembourg:/:uk: but grew up and am currently studying software engineering in The Netherlands.
-
-<!-- ## ⚡ Technologies
-- I’m currently learning:
-  - **Spring** 🌱
-  - **Vue** 🌄
-  - **React** ⛲
-  - **.NET 5.0** 🍇 -->
-  
-<img src="https://komarev.com/ghpvc/?username=dainank&label=Visitor count&color=ff00ff&style=flat" alt="dainank" />
