@@ -1,6 +1,6 @@
 <h2> 👋 Hi, I’m @dainank! </h2>
 
-I am Ben (aka @dainank), from :luxembourg:/:uk: but grew up and am currently studying software engineering in The Netherlands.
+I am **Benjamin** (aka @dainank), from :luxembourg:/:uk: but grew up and am currently studying **software engineering** in **The Netherlands**.
 
 Additionally, I work at [*Lely*](https://www.lely.com/) as part of the [__*Lely* Vector__ continuous development team](https://www.lely.com/solutions/feeding/vector/), contributing to their flagship cow feeding robot.
 
