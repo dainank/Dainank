@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m @Dainank! </h2>
+<h2> Dainank </h2>
 
 I am **Benjamin**, from :luxembourg:/:uk: and currently working at [*ASML*](https://www.asml.com/en/careers/working-at-asml/netherlands) in **The Netherlands** as a software engineer.
 
